@@ -1,1 +1,3 @@
-# nlp_final
+This is the final project for my undergraduate Natural Language Processing class at Occidental College for the fall semester of 2021. The purpose of this project was to create the foundations of an eventual movie search engine. The code is structured by sections of the final DataFrame that I create for a list of movies. For each subcategory, I provide a small testing portion, usually with the Disney movie “Frozen” at location 101. There is also a word cloud section in the code that I tested for the final paper.
+
+In order to run the code, you need to change the file directories to your file path.
